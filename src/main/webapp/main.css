@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+body {
+    background-color: #fff;
+}
+
+h1 {
+    color: #191919;
+    font-family: "Open Sans";
+    font-size: 36pt;
+    position: center;
+}
+
+p {
+    color: #191919;
+    font-family: "Open Sans";
+    font-size: 16pt;
+}
+
+.form {
+    background-color: #191919;
+    color: #fff;
+}
+
